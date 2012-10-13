@@ -80,7 +80,49 @@
 <XPD:REF name="DiagramOwner">tHT1fK8ctEqVHOAYn8Mf/QAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="MFgkY5F0hkKK1eMtGthkugAA">
 <XPD:REF name="Diagram">0EtTxYQ/+0+lNhiKVwr3zwAA</XPD:REF>
+<XPD:ATTR name="#OwnedViews" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedViews[0]" type="UMLClassView" guid="LRj0fXS93E6SV/XlUYIScgAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">172</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">48</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">90</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">43</XPD:ATTR>
+<XPD:REF name="Model">POiyG0iG306V1ReugtcZZAAA</XPD:REF>
+<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="jaoOb9oEtUuZI9K60BF6UQAA">
+<XPD:OBJ name="NameLabel" type="LabelView" guid="NZbt/2BytEecz1K5LRKCTQAA">
+<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Oficinas</XPD:ATTR>
 </XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="sRpHDVhbeEKe2UOQZecEQgAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="LabelView" guid="7HK016HOzU2wg7q3YpqrHQAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="5txZ8Jk/f0i7LSc38kCl/wAA">
+<XPD:REF name="Model">POiyG0iG306V1ReugtcZZAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="VSKihAiq706PIiAs33bNfQAA">
+<XPD:REF name="Model">POiyG0iG306V1ReugtcZZAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="TemplateParameterCompartment" type="UMLTemplateParameterCompartmentView" guid="FrYpBW5nPESkuZhlkf37IwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">POiyG0iG306V1ReugtcZZAAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:ATTR name="#OwnedElements" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedElements[0]" type="UMLClass" guid="POiyG0iG306V1ReugtcZZAAA">
+<XPD:ATTR name="Name" type="string">Oficinas</XPD:ATTR>
+<XPD:REF name="Namespace">tHT1fK8ctEqVHOAYn8Mf/QAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">LRj0fXS93E6SV/XlUYIScgAA</XPD:REF>
+<XPD:REF name="Views[1]">5txZ8Jk/f0i7LSc38kCl/wAA</XPD:REF>
+<XPD:REF name="Views[2]">VSKihAiq706PIiAs33bNfQAA</XPD:REF>
+<XPD:REF name="Views[3]">FrYpBW5nPESkuZhlkf37IwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[2]" type="UMLModel" guid="3JBXjgUrqkeOQPYhKbdjZQAA">
